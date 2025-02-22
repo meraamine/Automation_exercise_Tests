@@ -1,0 +1,14 @@
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @٢٢-٠٢-٢٠٢٥ ١٥:٢٢:٥٢.٠٩٦٩ م
+[ReportManager] Setting "screenshotParams_scalingFactor" property with "1.25". @٢٢-٠٢-٢٠٢٥ ١٥:٢٢:٥٣.٠٠٤٧ م
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--disable-search-engine-cho..., --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Optimiza..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-sync, --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --remote-debugging-port=63522, --no-sandbox, --start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\Win10\IdeaProjects..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true} @٢٢-٠٢-٢٠٢٥ ١٥:٢٢:٥٣.٠٠٦٩ م
+[ReportManager] Attempting to run locally on: "Windows | Chrome". @٢٢-٠٢-٢٠٢٥ ١٥:٢٢:٥٣.٠٠٦٩ م
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @٢٢-٠٢-٢٠٢٥ ١٥:٢٢:٥٣.٠٠٦٩ م
+[ReportManager] Successfully Opened: "Windows | Chrome". @٢٢-٠٢-٢٠٢٥ ١٥:٢٢:٥٥.٠٢٠٥ م
+[ReportManager] Target URL: "https://www.automationexercise.com/login" @٢٢-٠٢-٢٠٢٥ ١٥:٢٢:٥٥.٠٣٢٠ م
+[ReportManager] Initial URL: "about:blank" @٢٢-٠٢-٢٠٢٥ ١٥:٢٢:٥٥.٠٣٧٨ م
+[ReportManager] Navigate to url "https://www.automationexercise.com/login". @٢٢-٠٢-٢٠٢٥ ١٥:٢٢:٥٩.٠٣٣١ م
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/testData.json". @٢٢-٠٢-٢٠٢٥ ١٥:٢٢:٥٩.٠٣٣١ م
+[ReportManager] Successfully created attachment 'Test Data - JSON' @٢٢-٠٢-٢٠٢٥ ١٥:٢٢:٥٩.٠٣٣١ م
+[ReportManager] Reading test data from the following file [src/test/resources/testDataFiles/testData.xlsx]. @٢٢-٠٢-٢٠٢٥ ١٥:٢٣:٠٠.٠٥٩٥ م
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/testData.xlsx". @٢٢-٠٢-٢٠٢٥ ١٥:٢٣:٠٠.٠٥٩٥ م
+[ReportManager] Successfully created attachment 'Test Data - Excel' @٢٢-٠٢-٢٠٢٥ ١٥:٢٣:٠٠.٠٥٩٥ م

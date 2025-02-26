@@ -16,7 +16,7 @@ then Get Text from "Rs. 1299", text is "Rs. 1299".
 then Click " Add to cart" 
 then Get Text from "Rs. 1389", text is "Rs. 1389"
 then Scroll to element " Cart".
-Click "view Cart" 
+Click " Cart" 
 & Capture page snapshot. 
 )
 

@@ -1,0 +1,26 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                   Test Method: 'addProduct.addProductsToCart'                                                   
+                                 Test Description: 'Navigate to Products & Add items with price less than 1000 '                                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Type "Email Address" @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٠.٠٩٧١ م
+[ReportManager] Type "Password" @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠١.٠٠٣٦ م
+[ReportManager] Click "Login" @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠١.٠١١٣ م
+[ReportManager] Click " MEN" @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠١.٠٩٧٥ م
+[ReportManager] Click "TSHIRTS" @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٢.٠٠٧٦ م
+[ReportManager] Get Text from "Rs. 400", text is "Rs. 400". @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٣.٠٣٥٩ م
+[ReportManager] Click " Add to cart" @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٣.٠٤٢٥ م
+[ReportManager] Click "Continue Shopping" @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٣.٠٩٨٢ م
+[ReportManager] Get Text from "Rs. 1299", text is "Rs. 1299". @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٤.٠١٢١ م
+[ReportManager] Get Text from "Rs. 1000", text is "Rs. 1000". @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٤.٠٣٣٢ م
+[ReportManager] Get Text from "Rs. 1500", text is "Rs. 1500". @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٤.٠٥١٣ م
+[ReportManager] Get Text from "Rs. 850", text is "Rs. 850". @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٤.٠٦٣٤ م
+[ReportManager] Click " Add to cart" @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٤.٠٨٧٧ م
+[ReportManager] Click "By.xpath: //button[@data-dismiss="modal"]" @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٥.٠١٩٦ م
+[ReportManager] Get Text from "Rs. 1389", text is "Rs. 1389". @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٥.٠٢٦٩ م
+[ReportManager] Scroll to element " Cart". @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٥.٠٣٤٦ م
+[ReportManager] Click " Cart" @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٥.٠٤١٧ م
+[ReportManager] Capture page snapshot. @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٥.٠٧١٥ م
+[ReportManager] Successfully created attachment 'Browser Action Test Data - Capture page snapshot - Actual Value' @٢٦-٠٢-٢٠٢٥ ١٦:٢٤:٠٥.٠٧٢٢ م

@@ -1,3 +1,4 @@
+import com.epam.reportportal.annotations.Step;
 import com.shaft.driver.SHAFT;
 import org.openqa.selenium.By;
 
@@ -13,6 +14,7 @@ public class P01_LoginPage {
     By loginBtn = By.xpath("//button[@data-qa=\"login-button\"]");
 
     //methods
+    @Step("Login with valid email & password ")
     public P02_HomePage loginSteps(String userEmail, String password){
         driver.element().type(emailInput,userEmail).
                 and().type(passwordInput,password).

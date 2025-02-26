@@ -8,11 +8,13 @@ public class addProduct {
     SHAFT.TestData.JSON testJson;
     SHAFT.TestData.EXCEL testExcel;
 
-    @Test
+    @Test(description = "Navigate to Products & Add items with price less than 1000 ")
     public void addProductsToCart() throws InterruptedException {
        // new P01_LoginPage(driver).loginSteps(testJson.getTestData("userEmail"),testJson.getTestData("password") );
         new P01_LoginPage(driver).loginSteps(testExcel.getCellData("userEmail"), testJson.getTestData("password"))
-                .navigateToProducts();
+                .navigateToProducts()
+                .addProducts()
+                .productsVerifications();
         Thread.sleep(3000);
     }
 

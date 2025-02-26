@@ -1,7 +1,6 @@
-Set up
-Engine Setup 
-setUp 
-Test body
+Set up ( Engine Setup & setUp  )
+
+Test body ( 
 Type "Email Address"
 Type "Password"
 Click "Login"
@@ -20,4 +19,6 @@ Get Text from "Rs. 1389", text is "Rs. 1389"
 Scroll to element " Cart".
 Click " Cart" 
 Capture page snapshot. 
+)
+
 ![2025-02-26](https://github.com/user-attachments/assets/efa0f274-2a1b-42d1-b801-636fb03552ac)
